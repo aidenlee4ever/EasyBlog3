@@ -3,10 +3,111 @@
     <title>Law in Korea</title>
     <link href="https://lawinkorea.com/feed.xml" rel="self" />
     <link href="https://lawinkorea.com" />
-    <updated>1970-01-01T09:00:00+09:00</updated>
+    <updated>2021-04-24T18:16:37+09:00</updated>
     <author>
         <name>Jeongha Lee</name>
     </author>
     <id>https://lawinkorea.com</id>
 
+    <entry>
+        <title>Test Post 5</title>
+        <author>
+            <name>Jeongha Lee</name>
+        </author>
+        <link href="https://lawinkorea.com/test-post-5.html"/>
+        <id>https://lawinkorea.com/test-post-5.html</id>
+
+        <updated>2021-04-24T18:16:37+09:00</updated>
+            <summary>
+                <![CDATA[
+                    The purpose of this Act is to provide for matters concerning safe border controls through the immigration control of all nationals and aliens who enter or depart from the Republic of Korea, control over the stay of aliens in the Republic of Korea, and social integration, etc. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The purpose of this Act is to provide for matters concerning safe border controls through the immigration control of all nationals and aliens who enter or depart from the Republic of Korea, control over the stay of aliens in the Republic of Korea, and social integration, etc. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test Post 4</title>
+        <author>
+            <name>Jeongha Lee</name>
+        </author>
+        <link href="https://lawinkorea.com/test-post-4.html"/>
+        <id>https://lawinkorea.com/test-post-4.html</id>
+
+        <updated>2021-04-24T18:16:25+09:00</updated>
+            <summary>
+                <![CDATA[
+                     The purpose of this Act is to provide for matters concerning safe border controls through the immigration control of all nationals and aliens who enter or depart from the Republic of Korea, control over the stay of aliens in the Republic of Korea, and social integration, etc. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <hr>
+<p>The purpose of this Act is to provide for matters concerning safe border controls through the immigration control of all nationals and aliens who enter or depart from the Republic of Korea, control over the stay of aliens in the Republic of Korea, and social integration, etc. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test Post 3</title>
+        <author>
+            <name>Jeongha Lee</name>
+        </author>
+        <link href="https://lawinkorea.com/test-post-3.html"/>
+        <id>https://lawinkorea.com/test-post-3.html</id>
+
+        <updated>2021-04-24T18:16:12+09:00</updated>
+            <summary>
+                <![CDATA[
+                    The purpose of this Act is to provide for matters concerning safe border controls through the immigration control of all nationals and aliens who enter or depart from the Republic of Korea, control over the stay of aliens in the Republic of Korea, and social integration, etc. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The purpose of this Act is to provide for matters concerning safe border controls through the immigration control of all nationals and aliens who enter or depart from the Republic of Korea, control over the stay of aliens in the Republic of Korea, and social integration, etc. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test Post 2</title>
+        <author>
+            <name>Jeongha Lee</name>
+        </author>
+        <link href="https://lawinkorea.com/test-post-2.html"/>
+        <id>https://lawinkorea.com/test-post-2.html</id>
+
+        <updated>2021-04-24T18:16:03+09:00</updated>
+            <summary>
+                <![CDATA[
+                    The purpose of this Act is to provide for matters concerning safe border controls through the immigration control of all nationals and aliens who enter or depart from the Republic of Korea, control over the stay of aliens in the Republic of Korea, and social integration, etc. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The purpose of this Act is to provide for matters concerning safe border controls through the immigration control of all nationals and aliens who enter or depart from the Republic of Korea, control over the stay of aliens in the Republic of Korea, and social integration, etc. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test Post 1</title>
+        <author>
+            <name>Jeongha Lee</name>
+        </author>
+        <link href="https://lawinkorea.com/test-post-1.html"/>
+        <id>https://lawinkorea.com/test-post-1.html</id>
+
+        <updated>2021-04-24T18:15:08+09:00</updated>
+            <summary>
+                <![CDATA[
+                    We, the people of Korea, proud of a resplendent history and traditions dating from time immemorial, upholding the cause of the Provisional Republic of Korea Government born of the March First Independence Movement of 1919 and the democratic ideals of the April Nineteenth Uprising of 1960 against injustice, having assumed&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We, the people of Korea, proud of a resplendent history and traditions dating from time immemorial, upholding the cause of the Provisional Republic of Korea Government born of the March First Independence Movement of 1919 and the democratic ideals of the April Nineteenth Uprising of 1960 against injustice, having assumed the mission of democratic reform and peaceful unification of our homeland and having determined to consolidate national unity with justice, humanitarianism and brotherly love, and To destroy all social vices and injustice, and To afford equal opportunities to every person and provide for the fullest development of individual capabilities in all fields, including political, economic, social and cultural life by further strengthening the basic free and democratic order conducive to private initiative and public harmony, and To help each person discharge those duties and responsibilities concomitant to freedoms and rights, and To elevate the quality of life for all citizens and contribute to lasting world peace and the common prosperity of mankind and thereby to ensure security, liberty and happiness for ourselves and our posterity forever, Do hereby amend, through national referendum following a resolution by the National Assembly, the Constitution, ordained and established on the Twelfth Day of July anno Domini Nineteen hundred and forty-eight, and amended eight times subsequently.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
