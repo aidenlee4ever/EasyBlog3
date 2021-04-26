@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://lawinkorea.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://lawinkorea.com/</loc>
+</url>
+<url>
+<loc>https://lawinkorea.com/test-post-1.html</loc>
+<lastmod>2021-04-24T18:15:08+09:00</lastmod>
+</url>
+<url>
+<loc>https://lawinkorea.com/test-post-2.html</loc>
+<lastmod>2021-04-24T18:16:03+09:00</lastmod>
+</url>
+<url>
+<loc>https://lawinkorea.com/test-post-3.html</loc>
+<lastmod>2021-04-24T18:16:12+09:00</lastmod>
+</url>
+<url>
+<loc>https://lawinkorea.com/test-post-4.html</loc>
+<lastmod>2021-04-24T18:16:25+09:00</lastmod>
+</url>
+<url>
+<loc>https://lawinkorea.com/test-post-5.html</loc>
+<lastmod>2021-04-24T18:16:37+09:00</lastmod>
+</url>
+</urlset>

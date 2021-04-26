@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lawinkorea.com/sitemap.xml
